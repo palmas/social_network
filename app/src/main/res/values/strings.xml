@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">SocialNetwork</string>
+    <string name="next">Click here</string>
+    <string name="auth">Авторизация</string>
+    <string name="not_all_fields">Не все поля заполнены</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="forgot_pass">Забыли пароль?</string>
+    <string name="use_social">Использовать соцсети</string>
+    <string name="login">Войти</string>
+    <string name="logout">Выйти</string>
 </resources>
